@@ -1,4 +1,4 @@
-module github.com/kkumtree/dd-security-rule-extension-go/V2
+module github.com/kkumtree/dd-security-rule-extension-go/v2
 
 go 1.22
 
